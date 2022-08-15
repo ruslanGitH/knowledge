@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Первый запуск");
+        int x;
+        for(int i = 0; i<10;i++){
+
+        }
     }
 }
